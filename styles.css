@@ -1,0 +1,77 @@
+header {
+  background-image: url("./img/ba1.jpg");
+}
+
+section {
+  background-color: transparent;
+  padding-bottom: 5%;
+  padding-top: 25%;
+  padding-right: 3%;
+  text-align: right;
+  color: white;
+}
+
+#info_bs_as {
+  background-color: gray;
+  text-align: left;
+  padding-top: 0%;
+}
+
+#datosUsuario {
+  align-content: center;
+  justify-content: center;
+}
+
+#navbar {
+  justify-content: flex-end;
+  margin-right: 2%;
+}
+
+footer {
+  color: white;
+  background-color: steelblue;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  margin-top: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+#valorTickets {
+  padding-top: 6%;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
+#datosUsuarioTicket {
+  align-content: center;
+  justify-content: center;
+  text-align: left;
+  padding-bottom: 2%;
+  margin-bottom: 2%;
+}
+
+#valorTotal {
+  text-align: left;
+  color: white;
+  outline: none;
+  background-color: #131231;
+}
+
+#total {
+  border: 0;
+  background-color: #131231;
+  color: white;
+  outline: none;
+}
+
+#footerTickets {
+  color: white;
+  background-color: steelblue;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  margin-top: 2px;
+  justify-content: center;
+  align-items: center;
+}
